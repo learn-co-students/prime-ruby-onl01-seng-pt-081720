@@ -8,4 +8,9 @@ def prime?(int)
   	end
   	num+=1
 	end
+	
+	if counter >= 1
+	  return true
+	else
+	  return false
 end
